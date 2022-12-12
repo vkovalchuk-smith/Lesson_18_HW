@@ -1,0 +1,15 @@
+
+
+$ cd Desktop
+
+
+$ cd Anzhelika_Vodolazskaya_HW18
+
+
+$ ls
+
+
+$ touch script_AV_HW18.sh
+
+$ touch script_AV_HW18.txt
+
